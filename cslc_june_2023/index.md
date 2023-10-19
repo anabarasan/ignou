@@ -37,6 +37,10 @@ shared by CSLCOL guys via whatsapp group
 
 [source](https://webservices.ignou.ac.in/Pre-Question/)
 
+## Previous Year's Counselling Sessions
+* 2022 - https://www.youtube.com/playlist?list=PLiUPcHYtY7DV2m74d_FTiTnfaaT7ls5HE
+* 2021 - https://www.youtube.com/playlist?list=PLJtSlBqIBhLr8aQEKJDfkp0oikb-L2s70
+
 ## Other Documents
 
 (_documents shared via whatsapp group_)
@@ -45,3 +49,8 @@ shared by CSLCOL guys via whatsapp group
 * [rc delhi 1 assignment links](rc_delhi_1_assignment_guidelines.pdf)
 * [rc delhi 3 assignment links](rc_delhi_3_assignment_links.pdf)
 * [tentative TEE datesheet](tentative_tee_datesheet_dec_2023.pdf)
+
+## Learning Resources shared in the whatsapp group
+
+* ser or estar -> https://youtu.be/BFmmvdANZl0?si=2A8qS9WNFHyrsd5f
+* ser or estar present tense conjugation -> https://www.youtube.com/watch?v=YJzhSQRy6N4
