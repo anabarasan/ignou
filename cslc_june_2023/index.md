@@ -1,5 +1,7 @@
 # CLSC June 2023
 
+*note: use ctrl + click to open the links in new tab*
+
 [program guide](cslc_programguide_sofl.pdf)
 
 ## Text Books
@@ -38,12 +40,14 @@ shared by CSLCOL guys via whatsapp group
 [source](https://webservices.ignou.ac.in/Pre-Question/)
 
 ## Previous Year's Counselling Sessions
-* 2022 - https://www.youtube.com/playlist?list=PLiUPcHYtY7DV2m74d_FTiTnfaaT7ls5HE
-* 2021 - https://www.youtube.com/playlist?list=PLJtSlBqIBhLr8aQEKJDfkp0oikb-L2s70
+* 2022 - [https://www.youtube.com/playlist?list=PLiUPcHYtY7DV2m74d_FTiTnfaaT7ls5HE](https://www.youtube.com/playlist?list=PLiUPcHYtY7DV2m74d_FTiTnfaaT7ls5HE)
+* 2021 - [https://www.youtube.com/playlist?list=PLJtSlBqIBhLr8aQEKJDfkp0oikb-L2s70](https://www.youtube.com/playlist?list=PLJtSlBqIBhLr8aQEKJDfkp0oikb-L2s70)
 
 ## Other Documents
 
 (_documents shared via whatsapp group_)
+
+*note: use ctrl + click to open the links in new tab*
 
 * [0712 assignment submission notice](0712_vivekananda_college_assignment_submission_notice.pdf)
 * [rc delhi 1 assignment links](rc_delhi_1_assignment_guidelines.pdf)
@@ -52,8 +56,10 @@ shared by CSLCOL guys via whatsapp group
 
 ## Learning Resources shared in the whatsapp group
 
-* ser or estar -> https://youtu.be/BFmmvdANZl0?si=2A8qS9WNFHyrsd5f
-* ser or estar present tense conjugation -> https://www.youtube.com/watch?v=YJzhSQRy6N4
-* Alphabets -> https://youtu.be/hsLYD1Jyf3A?si=Md0SufvZ6TRYQwAp
-* ELE A1 Level Playlist -> https://www.youtube.com/playlist?list=PL29747CBC28F65045
-* Grammar -> https://studyspanish.com/grammar
+*note: use ctrl + click to open the links in new tab*
+
+* [ser or estar](https://youtu.be/BFmmvdANZl0?si=2A8qS9WNFHyrsd5f)
+* [ser or estar present tense conjugation](https://www.youtube.com/watch?v=YJzhSQRy6N4)
+* [Alphabets](https://youtu.be/hsLYD1Jyf3A?si=Md0SufvZ6TRYQwAp)
+* [ELE A1 Level Playlist](https://www.youtube.com/playlist?list=PL29747CBC28F65045)
+* [Grammar](https://studyspanish.com/grammar)
