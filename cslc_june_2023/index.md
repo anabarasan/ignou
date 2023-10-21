@@ -54,3 +54,6 @@ shared by CSLCOL guys via whatsapp group
 
 * ser or estar -> https://youtu.be/BFmmvdANZl0?si=2A8qS9WNFHyrsd5f
 * ser or estar present tense conjugation -> https://www.youtube.com/watch?v=YJzhSQRy6N4
+* Alphabets -> https://youtu.be/hsLYD1Jyf3A?si=Md0SufvZ6TRYQwAp
+* ELE A1 Level Playlist -> https://www.youtube.com/playlist?list=PL29747CBC28F65045
+* Grammar -> https://studyspanish.com/grammar
