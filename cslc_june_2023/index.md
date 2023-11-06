@@ -53,6 +53,7 @@ shared by CSLCOL guys via whatsapp group
 * [rc delhi 1 assignment links](rc_delhi_1_assignment_guidelines.pdf)
 * [rc delhi 3 assignment links](rc_delhi_3_assignment_links.pdf)
 * [tentative TEE datesheet](tentative_tee_datesheet_dec_2023.pdf)
+* [Assignment Last Date Extension Announcement](Notification-Extension_of_Assignment_submission_ Date.pdf)
 
 ## Learning Resources shared in the whatsapp group
 
@@ -63,3 +64,12 @@ shared by CSLCOL guys via whatsapp group
 * [Alphabets](https://youtu.be/hsLYD1Jyf3A?si=Md0SufvZ6TRYQwAp)
 * [ELE A1 Level Playlist](https://www.youtube.com/playlist?list=PL29747CBC28F65045)
 * [Grammar](https://studyspanish.com/grammar)
+* [https://www.wordreference.com/](https://www.wordreference.com/)
+* [https://www.spanishpod101.com/](https://www.spanishpod101.com/)
+* [https://www.livemochas.com/](https://www.livemochas.com/)
+* [https://www.spanishdict.com/](https://www.spanishdict.com/)
+* [https://videoele.com/](https://videoele.com/)
+
+## suggested books
+
+* Aula Internacional 1
