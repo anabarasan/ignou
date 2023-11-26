@@ -28,14 +28,14 @@ shared by CSLCOL guys via whatsapp group
 
 | BSL-001 | BSL-002 |
 | --- | --- |
-| [Jun 2019](PreviousYearQuestionPaper/201905-BSL-001.pdf) | [Jun 2019](PreviousYearQuestionPaper/201905-BSL-002.pdf) |
-| [Dec 2019](PreviousYearQuestionPaper/201912-BSL-001.pdf) | [Dec 2019](PreviousYearQuestionPaper/201912-BSL-002.pdf) |
-| [Jun 2020](PreviousYearQuestionPaper/202005-BSL-001.pdf) | [Jun 2020](PreviousYearQuestionPaper/202005-BSL-002.pdf) |
-| [Dec 2020](PreviousYearQuestionPaper/202012-BSL-001.pdf) | [Dec 2020](PreviousYearQuestionPaper/202012-BSL-002.pdf) |
-| [Dec 2021](PreviousYearQuestionPaper/202112-BSL-001.pdf) | [Dec 2021](PreviousYearQuestionPaper/202112-BSL-002.pdf) |
-| [Jun 2022](PreviousYearQuestionPaper/202205-BSL-001.pdf) | [Jun 2022](PreviousYearQuestionPaper/202205-BSL-002.pdf) |
-| [Dec 2022](PreviousYearQuestionPaper/202212-BSL-001.pdf) | [Dec 2022](PreviousYearQuestionPaper/202212-BSL-002.pdf) |
-| [Jun 2023](PreviousYearQuestionPaper/202305-BSL-001.pdf) | [Jun 2023](PreviousYearQuestionPaper/202305-BSL-002.pdf) |
+| [Jun 2019](PreviousYearQuestionPaper/BSL-001/201905-BSL-001.pdf) | [Jun 2019](PreviousYearQuestionPaper/BSL-002/201905-BSL-002.pdf) |
+| [Dec 2019](PreviousYearQuestionPaper/BSL-001/201912-BSL-001.pdf) | [Dec 2019](PreviousYearQuestionPaper/BSL-002/201912-BSL-002.pdf) |
+| [Jun 2020](PreviousYearQuestionPaper/BSL-001/202005-BSL-001.pdf) | [Jun 2020](PreviousYearQuestionPaper/BSL-002/202005-BSL-002.pdf) |
+| [Dec 2020](PreviousYearQuestionPaper/BSL-001/202012-BSL-001.pdf) | [Dec 2020](PreviousYearQuestionPaper/BSL-002/202012-BSL-002.pdf) |
+| [Dec 2021](PreviousYearQuestionPaper/BSL-001/202112-BSL-001.pdf) | [Dec 2021](PreviousYearQuestionPaper/BSL-002/202112-BSL-002.pdf) |
+| [Jun 2022](PreviousYearQuestionPaper/BSL-001/202205-BSL-001.pdf) | [Jun 2022](PreviousYearQuestionPaper/BSL-002/202205-BSL-002.pdf) |
+| [Dec 2022](PreviousYearQuestionPaper/BSL-001/202212-BSL-001.pdf) | [Dec 2022](PreviousYearQuestionPaper/BSL-002/202212-BSL-002.pdf) |
+| [Jun 2023](PreviousYearQuestionPaper/BSL-001/202305-BSL-001.pdf) | [Jun 2023](PreviousYearQuestionPaper/BSL-002/202305-BSL-002.pdf) |
 
 [source](https://webservices.ignou.ac.in/Pre-Question/)
 
