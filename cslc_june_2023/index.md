@@ -28,14 +28,14 @@ shared by CSLCOL guys via whatsapp group
 
 | BSL-001 | BSL-002 |
 | --- | --- |
-| [Jun 2019](201905-BSL-001.pdf) | [Jun 2019](201905-BSL-002.pdf) |
-| [Dec 2019](201912-BSL-001.pdf) | [Dec 2019](201912-BSL-002.pdf) |
-| [Jun 2020](202005-BSL-001.pdf) | [Jun 2020](202005-BSL-002.pdf) |
-| [Dec 2020](202012-BSL-001.pdf) | [Dec 2020](202012-BSL-002.pdf) |
-| [Dec 2021](202112-BSL-001.pdf) | [Dec 2021](202112-BSL-002.pdf) |
-| [Jun 2022](202205-BSL-001.pdf) | [Jun 2022](202205-BSL-002.pdf) |
-| [Dec 2022](202212-BSL-001.pdf) | [Dec 2022](202212-BSL-002.pdf) |
-| [Jun 2023](202305-BSL-001.pdf) | [Jun 2023](202305-BSL-002.pdf) |
+| [Jun 2019](PreviousYearQuestionPaper/201905-BSL-001.pdf) | [Jun 2019](PreviousYearQuestionPaper/201905-BSL-002.pdf) |
+| [Dec 2019](PreviousYearQuestionPaper/201912-BSL-001.pdf) | [Dec 2019](PreviousYearQuestionPaper/201912-BSL-002.pdf) |
+| [Jun 2020](PreviousYearQuestionPaper/202005-BSL-001.pdf) | [Jun 2020](PreviousYearQuestionPaper/202005-BSL-002.pdf) |
+| [Dec 2020](PreviousYearQuestionPaper/202012-BSL-001.pdf) | [Dec 2020](PreviousYearQuestionPaper/202012-BSL-002.pdf) |
+| [Dec 2021](PreviousYearQuestionPaper/202112-BSL-001.pdf) | [Dec 2021](PreviousYearQuestionPaper/202112-BSL-002.pdf) |
+| [Jun 2022](PreviousYearQuestionPaper/202205-BSL-001.pdf) | [Jun 2022](PreviousYearQuestionPaper/202205-BSL-002.pdf) |
+| [Dec 2022](PreviousYearQuestionPaper/202212-BSL-001.pdf) | [Dec 2022](PreviousYearQuestionPaper/202212-BSL-002.pdf) |
+| [Jun 2023](PreviousYearQuestionPaper/202305-BSL-001.pdf) | [Jun 2023](PreviousYearQuestionPaper/202305-BSL-002.pdf) |
 
 [source](https://webservices.ignou.ac.in/Pre-Question/)
 
@@ -69,6 +69,15 @@ shared by CSLCOL guys via whatsapp group
 * [https://www.livemochas.com/](https://www.livemochas.com/)
 * [https://www.spanishdict.com/](https://www.spanishdict.com/)
 * [https://videoele.com/](https://videoele.com/)
+* [https://www.notesinspanish.com/](https://www.notesinspanish.com/)
+* [Shared Materials](https://drive.google.com/drive/folders/1jFI1Tn2MS9ynFlZ8Pscslx43QrQeSHBQ?usp=sharing)
+
+## short essay answers based on previous year question papers
+#### (shared in whatsapp group)
+
+* [Brief text on Cervantes](short_essays/BriefTextOnCervantes.md)
+* [Don Quijote](short_essays/DonQuijote.md)
+* [Spanish Civil War & Post War Spain](short_essays/SpanishCivilWar&PostWarSpain.md)
 
 ## suggested books
 
